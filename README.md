@@ -1,2 +1,3 @@
-# FP-grupo-04
-Primer repositorio 
+#include <studio.h>
+main{
+}
